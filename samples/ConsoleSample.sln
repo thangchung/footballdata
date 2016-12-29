@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "ConsoleSample", "ConsoleSample\ConsoleSample.xproj", "{DA5C1073-64A6-454A-822B-5240423CEA8B}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "CiK.FootballData", "..\src\CiK.FootballData\CiK.FootballData.xproj", "{263E20AD-3FF2-4799-90F8-1C9D7A3211D6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{694F6799-08AC-4A7A-9597-78772A697FD9}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA5C1073-64A6-454A-822B-5240423CEA8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA5C1073-64A6-454A-822B-5240423CEA8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA5C1073-64A6-454A-822B-5240423CEA8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA5C1073-64A6-454A-822B-5240423CEA8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{263E20AD-3FF2-4799-90F8-1C9D7A3211D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{263E20AD-3FF2-4799-90F8-1C9D7A3211D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{263E20AD-3FF2-4799-90F8-1C9D7A3211D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{263E20AD-3FF2-4799-90F8-1C9D7A3211D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
