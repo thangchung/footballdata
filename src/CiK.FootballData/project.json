@@ -3,7 +3,8 @@
 
   "dependencies": {
     "NETStandard.Library": "1.6.1",
-    "Newtonsoft.Json": "9.0.1"
+    "Newtonsoft.Json": "9.0.1",
+    "System.Reactive.Linq": "3.0.1-rc1-00011"
   },
 
   "frameworks": {

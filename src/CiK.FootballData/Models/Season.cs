@@ -2,7 +2,7 @@
 
 namespace CiK.FootballData.Models
 {
-    public class Competition
+    public class Season
     {
         public int Id { get; set; }
         public string Caption { get; set; }
